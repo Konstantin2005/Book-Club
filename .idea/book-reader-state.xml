@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookReaderState">
+    <option name="darkMode" value="true" />
+    <option name="recentBooks">
+      <list>
+        <RecentBook>
+          <option name="author" value="Стивен Кинг" />
+          <option name="lastOpenedTime" value="1783417248300" />
+          <option name="path" value="$PROJECT_DIR$/00. Долгая прогулка/epub/Долгая прогулка.epub" />
+          <option name="title" value="Долгая прогулка" />
+          <option name="totalPages" value="21" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="PDF Document" />
+          <option name="lastOpenedTime" value="1783417933729" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/pdf/1984.pdf" />
+          <option name="title" value="1984.pdf" />
+          <option name="totalPages" value="947" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783417051960" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/epub/1984.epub" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="32" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783417050013" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/fb2/1984.fb2" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="5" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783417047554" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/epub/1984 (2).epub" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="34" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="PDF Document" />
+          <option name="lastOpenedTime" value="1783417003721" />
+          <option name="path" value="$PROJECT_DIR$/00. Долгая прогулка/pdf/Долгая прогулка new.pdf" />
+          <option name="title" value="Долгая прогулка new.pdf" />
+          <option name="totalPages" value="947" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783416283141" />
+          <option name="lastPage" value="2" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/fb2/1984 -- Джордж Оруэлл -- f25569ac5d0d5ff817bc90d296bfe848 -- Anna’s Archive.fb2" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="5" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783416250575" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/fb2/1984 -- Джордж Оруэлл -- 2021 -- Яуза_ Дримбук -- 9e280ac85ebba572066f0532ed9e6b1a -- Anna’s Archive.fb2" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="28" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783416152300" />
+          <option name="lastPage" value="33" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/epub/1984 -- Джордж Оруэлл -- 2026 -- AST Publishers, 2022 -- 65bc73fdd14695d1da275908fa748ce5 -- Anna’s Archive (1).epub" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="34" />
+        </RecentBook>
+        <RecentBook>
+          <option name="author" value="Джордж Оруэлл" />
+          <option name="lastOpenedTime" value="1783416134532" />
+          <option name="lastPage" value="27" />
+          <option name="path" value="$PROJECT_DIR$/03. 1984/epub/Оруэлл Джордж. 1984 - royallib.com.epub" />
+          <option name="title" value="1984" />
+          <option name="totalPages" value="32" />
+        </RecentBook>
+      </list>
+    </option>
+  </component>
+</project>
